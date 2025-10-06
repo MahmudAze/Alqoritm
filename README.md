@@ -13,3 +13,7 @@
 ### Tapşırıq 3
 #### SUAL: Verilmis n ve m (n<m) ededleri arasindaki tek ededlerin sayini tapin.
 <img width="565" height="687" alt="image" src="https://github.com/user-attachments/assets/e8c320cd-073b-43af-a88d-1a612b1a4314" />
+
+### Tapşırıq 4
+#### SUAL: Verilmis n ve m (n<m) ededleri arasindaki tek ededlerin cemini tapin.
+<img width="569" height="688" alt="image" src="https://github.com/user-attachments/assets/78511390-7485-4e00-9c2e-2a237dee050f" />
